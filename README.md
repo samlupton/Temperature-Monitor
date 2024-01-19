@@ -1,8 +1,4 @@
-# Temperature-Monitor
-
-Temperature moniter with LPC1768 and C++ code
-
-# Temperature Monitor with mbed Microcontroller
+# Temperature Monitor with LPC1768 mbed Microcontroller
 
 ## Overview and Demo GIF
 
