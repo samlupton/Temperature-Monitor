@@ -2,12 +2,5 @@
 
 Temperature moniter with lpc1768 and C++ code
 
-![Alt Text](filtered-1F7EE158-A1DF-4760-B48E-7CF3B53E8149.mp4)
-
-
-
-
-
-
-Uploading filtered-1F7EE158-A1DF-4760-B48E-7CF3B53E8149.mp4…
+![ezgif com-optimize](https://github.com/samlupton/Temperature-Monitor/assets/123123189/78857ba3-74a4-431b-828d-cdc916fe49da)
 
